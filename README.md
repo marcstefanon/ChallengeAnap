@@ -1,6 +1,6 @@
 # ChallengeAnap
 
-Programmes utiliser pour le challenge data science suivant:
+Programmes utilisés pour le challenge data science suivant:
 https://www.datascience.net/fr/challenge/28/details
 
 Les fichiers initiaux (.csv) sont convertis en binaires avec :
